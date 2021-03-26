@@ -4,18 +4,11 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - enemy
-  - addedWood
   - VCamSwitch
-  - pool-1
-  - lava
-  - hammer
-  - cutter
   - TJ
   - wall
-  - FxTemporaire
-  - wood
-  - Ground
+  - 1
+  - 2
   layers:
   - Default
   - TransparentFX
