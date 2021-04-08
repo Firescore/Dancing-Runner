@@ -9,6 +9,12 @@ TagManager:
   - wall
   - 1
   - 2
+  - cliff
+  - 3
+  - sBrecker
+  - line
+  - coin
+  - finishLine
   layers:
   - Default
   - TransparentFX
